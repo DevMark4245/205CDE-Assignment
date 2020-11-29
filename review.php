@@ -52,12 +52,12 @@
 				
 				<div class="wrap-input100 validate-input bg1" data-validate="Please Type Your Name">
 					<span class="label-input100">FULL NAME *</span>
-					<input class="input100" type="text" name="review_name" placeholder="Enter Your Name">
+					<input class="input100" type="text" name="review_name" placeholder="Enter Your Name" required>
 				</div>
 				
 				<div class="wrap-input100 validate-input bg1" data-validate="Please Type Your Name">
 					<span class="label-input100">EMAIL *</span>
-					<input class="input100" type="email" name="review_email" placeholder="Enter Your Email">
+					<input class="input100" type="email" name="review_email" placeholder="Enter Your Email" required>
 				</div>
 
 
@@ -124,12 +124,12 @@
 
 				<div class="wrap-input100 validate-input bg1" data-validate="Please Type Your Name">
 					<span class="label-input100">Title </span>
-					<input class="input100" type="text" name="review_title" placeholder="Enter A Title">
+					<input class="input100" type="text" name="review_title" placeholder="Enter A Title" required>
 				</div>
 				
 				<div class="wrap-input100 validate-input bg0 rs1-alert-validate" data-validate = "Please Type Your Message">
 					<span class="label-input100">Review</span>
-					<textarea class="input100" name="review_text" placeholder="Leave your message here..."></textarea>
+					<textarea class="input100" name="review_text" placeholder="Leave your message here..." required></textarea>
 				</div>
 
 				<div class="container-contact100-form-btn">
