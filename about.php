@@ -76,7 +76,7 @@
                   <p>We are a diverse team from around the world, based in Malaysia. We are counselors, content creators, salespersons, marketeers, data analysts and web developers who are passionate about helping you discover the courses and institutions that are right for you.</p>
 				  <br><p><b>We offer students and parents two things:</b></p>
                   <ul>
-                    <li>A website with information about colleges for those who like the do-it-yourself (DIY) approach. You can search, compare and apply to colleges on this site.</li>
+                    <li>A website with information about courses for those who like the do-it-yourself (DIY) approach. You can search, compare and apply to colleges on this site.</li>
                     <li>Counseling services for students and parents who want peace of mind knowing that professional counselors will guide you all the way to admission and departure. Think of it as a concierge service.</li>
 				</ul>
 				<br><p><b>We are in contact with course providers in Southeast Asia and Middle East. Acquiring students from these areas are our specialty. We can offer you the following services:</b></p>
@@ -85,7 +85,7 @@
                     <li>Student recruitment</li>
                     <li> Digital marketing services</li>
                   </ul>
-                  <p>For more information, email info@varsity.com or call (568) 986 652</p>
+                  <p>For more information, email info@courser.com or call (123) 456-7890</p>
                 </div>
 
 
